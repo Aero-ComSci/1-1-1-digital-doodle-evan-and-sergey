@@ -4,7 +4,11 @@
 ## Include the following in this read me
 
 1. Who is this app for?
+
+This app is for people who want to make funny images.
 1. What does it do, how does it work
+
+It takes the photo you took and allows you to draw on it using the canvas.
 1. Add screenshots of the design view or actual app
 1. Blocks that you showcase your individual skill
 1. The images you created
